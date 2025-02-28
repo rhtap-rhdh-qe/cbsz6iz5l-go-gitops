@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cbsz6iz5l-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cbsz6iz5l-go
